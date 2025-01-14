@@ -1,0 +1,8 @@
+# Ignoramos el module para no subirlo a git
+
+#folders
+node_modules
+dist
+
+#lock files
+*lock.json

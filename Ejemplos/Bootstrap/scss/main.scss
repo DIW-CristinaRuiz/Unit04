@@ -1,0 +1,7 @@
+$primary: green;
+$secondary: blue;
+
+// Ponemos la ruta a nuestra carpteta bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+// Compilamos
+// sass scss:dist --watch
