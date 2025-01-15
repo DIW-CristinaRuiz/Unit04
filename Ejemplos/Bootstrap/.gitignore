@@ -2,7 +2,7 @@
 
 #folders
 node_modules
-dist
+dist/*
 
 #lock files
 *lock.json
