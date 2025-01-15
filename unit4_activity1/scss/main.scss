@@ -1,0 +1,14 @@
+$primary: #51f7db;
+$secondary: #b6f3a4;
+$font-size-base: 1rem;
+$body-color: #557799;
+$enable-rounded: true;
+$enable-shadows: true;  
+$enable-gradients: true;
+$font-family-sans-serif: 'Roboto', sans-serif;
+$body-bg: #dde9f567;
+
+@import "border";
+@import "accordion";
+@import "../node_modules/bootstrap/scss/bootstrap";
+// sass scss:dist --watch
